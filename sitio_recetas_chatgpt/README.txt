@@ -1,0 +1,1 @@
+Sitio estático Sabores de Casa. Incluye 3 recetas saladas y 3 dulces, 6 imágenes PNG y 6 PDFs con ingredientes y preparación. La selección de categorías funciona con HTML y CSS, sin JavaScript.
